@@ -1,0 +1,2 @@
+以下の箇所でエラーが発生している
+- CSS selector で、chatGPTの出力だけを抜き出したいが、selectorをそのままAppleScriptに貼り付けると、AppleScriptでの特殊文字の使用と重なって、エラーが起こる。
